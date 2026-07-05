@@ -1,0 +1,11 @@
+# Map files
+*.bsp
+
+# Archive files
+*.7z
+*.zip
+*.rar
+*.txt.bz2
+
+# Mac junk
+.DS_Store
