@@ -1,0 +1,17 @@
+ph_007facility_a6
+ph_basalt_a2
+ph_canyon_a1
+ph_cargo_b7
+ph_cchotel_b3
+ph_chinatown_b1
+ph_cliffface_b1
+ph_doublecross_a2
+ph_farm_a5
+ph_granary_a5
+ph_grassland_a1_fixed
+ph_hanger18_b7
+ph_lakeside_b3
+ph_lumberyard_a2
+ph_manor_event_a1
+ph_suijin
+ph_timbertown_a3
